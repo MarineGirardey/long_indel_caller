@@ -9,7 +9,6 @@ Created on Wed Apr 14 08:49:55 2021
 from long_indel_caller_functions import *
 import argparse
 import os
-import sys
 import shutil
 
 program_description = '''
