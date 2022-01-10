@@ -1,4 +1,4 @@
-LONG INDEL DETECTION.
+### Long Indel Caller
 
 **Institut Curie - Long indel detection application**
 
