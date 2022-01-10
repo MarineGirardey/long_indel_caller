@@ -1,4 +1,4 @@
-# LONG INDEL DETECTION.
+LONG INDEL DETECTION.
 
 **Institut Curie - Long indel detection application**
 
