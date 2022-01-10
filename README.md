@@ -1,7 +1,7 @@
-### Long Indel Caller
+
+# Long Indel Caller
 
 **Institut Curie - Long indel detection application**
-
 
 ### Introduction
 This application has been developed to detect long INDELs in tumor's DNA in cancer patient samples after a panel
